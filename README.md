@@ -225,19 +225,6 @@ Possíveis extensões para o sistema:
 4. **Domain Events** - Para notificações e side effects
 5. **Specification Pattern** - Para queries complexas
 
-## 👥 Autor
-
-Desenvolvido como parte de um desafio prático para consolidação de conhecimentos em Programação Defensiva e Null Safety.
-
-## 📄 Licença
-
-Este projeto é para fins educacionais.
-
----
-
-**⭐ Se este projeto foi útil, deixe uma estrela no repositório!**
-
----
 
 <div align="center">
 
